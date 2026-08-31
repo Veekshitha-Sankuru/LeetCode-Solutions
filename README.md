@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Veekshitha-Sankuru/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Veekshitha-Sankuru/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Veekshitha-Sankuru/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -31,4 +32,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Veekshitha-Sankuru/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/Veekshitha-Sankuru/LeetCode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
